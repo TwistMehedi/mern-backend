@@ -1,0 +1,8 @@
+PORT=5000
+MONGOOSE_CONNECTION="mongodb+srv://auth:auth@cluster0.lls5u.mongodb.net/?retryWrites=true&w=majority"
+JWT_SECRET=2984js048jen93sf9g39gn
+JWT_EXPIRE=5d
+COOKIE_EXPIRE=5
+SERVICE=gmail
+SMPT_MAIL=ataul1708@gmail.com
+SMPT_PASSWORD=ataul1708
